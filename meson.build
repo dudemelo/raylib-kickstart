@@ -7,7 +7,7 @@ project(
 
 executable(
     'raylib-kickstart',
-    'main.cpp',
+    ['src/main.cpp'],
     install: true,
     dependencies: [dependency('raylib')],
 )
