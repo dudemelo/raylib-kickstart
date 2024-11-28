@@ -1,5 +1,8 @@
 # Raylib Kickstart
 
+The start point for a new game project using the [Raylib](https://www.raylib.com/)
+library.
+
 ## Requirements
 
 - [Python 3](https://www.python.org/downloads/)
