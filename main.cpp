@@ -1,3 +1,6 @@
-#include <iostream>
+#include <raylib.h>
 
-int main() { std::cout << "Project initialized\n"; }
+int main() {
+  InitWindow(800, 600, "Raylib Kickstart");
+  return 0;
+}
