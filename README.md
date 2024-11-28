@@ -18,3 +18,8 @@ meson setup --native-file build/conan_meson_native.ini . build/
 meson compile -C build
 ```
 
+## 4. Run the project
+
+```sh
+./build/raylib-kickstart
+```
